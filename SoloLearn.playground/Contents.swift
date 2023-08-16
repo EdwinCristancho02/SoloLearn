@@ -1,11 +1,7 @@
 import Foundation
-
-print("Hello World")
-var myVariable = 42
-print("The value \(myVariable)")
-// esto es una prueba
-/* this is also a comment,
- but written over multiple lines */
-
+var a = 42
+a = 88
+// Now "a" has value of 88
+print(a)
 
 
