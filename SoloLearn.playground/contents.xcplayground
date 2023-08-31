@@ -3,5 +3,7 @@
     <pages>
         <page name='Playground'/>
         <page name='Variables y Constantes'/>
+        <page name='TTipos de Datos'/>
+        <page name='Sentencias '/>
     </pages>
 </playground>
